@@ -1,5 +1,5 @@
 #include <iostream>
-int main4() {
+int main() {
 	int i,j;
 	i = 1;
 	while (i <= 10) {
