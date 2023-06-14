@@ -1,5 +1,5 @@
 #include <iostream>
-int main2() {
+int main() {
 	setlocale(LC_ALL, "ru");
 	int i = 1;
 	int sum = 0;

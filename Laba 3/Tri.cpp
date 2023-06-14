@@ -1,5 +1,5 @@
 #include <iostream>
-int main3() {
+int main() {
 	setlocale(LC_ALL, "ru");
 	int number;
 	std::cout << "¬ведите число дл€ проверки, €вл€етс€ ли оно простым: ";

@@ -1,5 +1,5 @@
 #include <iostream>
-int main14() {
+int main() {
 	int i, j;
 	i = 1;
 	do {

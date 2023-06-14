@@ -1,5 +1,5 @@
 #include <iostream>
-int main1() {
+int main() {
 	int i = 1;
 	while (i <= 10)
 		std::cout << i++ << std::endl;

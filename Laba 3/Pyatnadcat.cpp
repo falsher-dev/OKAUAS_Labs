@@ -1,5 +1,5 @@
 #include <iostream>
-int main15() {
+int main() {
 	setlocale(LC_ALL, "ru");
 	int num;
 	std::cout << "Факториал числа: ";
